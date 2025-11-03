@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Anonymoesje - Home Assistant add-on repository
-url: 'https://github.com/anonymoesje/home-assistant-magic'
-maintainer: Anonymoesje, Akrhin
+name: Akrhin - Home Assistant add-on repository, fork of Anonymoesje
+url: 'https://github.com/akrhin/home-assistant-magic'
+maintainer: Akrhin
